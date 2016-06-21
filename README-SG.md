@@ -17,7 +17,7 @@ passwd: (will email you), pls use SSH key to do password-less login and app depl
 ## 生产部署的 Hosting
 Digital Ocean 节点仅仅用于测试，最终托管在 qcloud的以下节点（待开通）：
 
-## 代码库克隆的方式：
+## 官方代码库的协同、官方版本升级：
 https://help.github.com/articles/duplicating-a-repository/
 
 这个方式方便定期拉取官方新版本，融合到我们的定制版本，持续测试、发布。
