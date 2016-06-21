@@ -7,3 +7,12 @@ publishing and comments app, embbeded-able into WeChat, for easier social sharin
 2. First time user can resiger using WeChat (WeChat OAuth-enabled)login, while requiring their emails 
 (email ownership validation required)
 3. Registered user only use WeChat to login the forum
+
+## 测试期间的 Hosting
+Digital Ocean node: 162.243.138.169
+
+user: your Github email prefix
+passwd: (will email you), pls use SSH key to do password-less login and app deployment
+
+## 生产部署的 Hosting
+Digital Ocean 节点仅仅用于测试，最终托管在 qcloud的以下节点（待开通）：
