@@ -2,11 +2,9 @@
 This project aims to provide Startup Grind Guangzhou (over http://sg.startupgrind.cn) a forum like online resource sharing,
 publishing and comments app, embbeded-able into WeChat, for easier social sharing and content consumption.
 
-## Customization Requirements
-1. Add UI language switches, support English and Simplified Chinese
-2. First time user can resiger using WeChat (WeChat OAuth-enabled)login, while requiring their emails 
-(email ownership validation required)
-3. Registered user only use WeChat to login the forum
+## Ver-1.0 Requirements
+1. Add UI language switches, support both English and Simplified Chinese
+2. User login (WeChat OAuth-enabled) 1) Web端微信扫二维码登陆；2）手机端要求关注公众号后登录。
 
 ## 测试期间的 Hosting
 Digital Ocean node: 162.243.138.169
